@@ -1,4 +1,4 @@
-# Code-challeng
+# Code-challenge
 
 This script takes input.txt as input, parses it, and produces output.txt as output(converts the identation blocks to numbering).
 
